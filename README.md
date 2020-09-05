@@ -100,13 +100,6 @@ Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail
 > 本人不常用，看心情添加
 
 ## SS/SSR/V2ray
-机场|SS|SSR|V2rary|备注|点击访问
-----|:-:|:---:|:-------:|:---:|:-------:
-XiXicats  |×|√|×|注册送100G，签到送流量|[这是我的邀请链接](https://xixicats.pw/auth/register?code=DpTG)
-樱云|×|×|√|使用邀请链接注册获10G（否则5G），签到送流量|[这是我的邀请链接](http://invcode.yingyun-inv.com/0ITQhc)
-Starry Sea|×|×|√|注册送1G，一天会员试用，签到送流量|[这是我的邀请链接](https://1.xcdh.me/auth/register?code=U317)
-
-> 以上仅总结机场的免费服务
 
 ### 免费节点分享
 网站      |ss                                        |ssr                                                  |v2ray|
