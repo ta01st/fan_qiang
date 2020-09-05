@@ -52,9 +52,9 @@ EGOUZ||[2](https://www.egouz.com/)
 # 概要
 个人想要科学上网：  
 利用软件科学上网，大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash、自己搭建。  
-利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为我不会，因为我没用过，因为我需求没那么大。  
+利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为没用过，因为不会。  
 
-个人推荐：用SS/SSR/V2ray/Clash，至于节点的问题，在本页面的机场推荐和相关网站上可以解决。
+个人推荐：用SS/SSR/V2ray/Clash，至于节点的问题，本页面也可以解决。
 ## 在线代理
 网站|备注|链接
 :-:|:-:|:-:
@@ -139,6 +139,8 @@ SSRSHARE||[14](https://www.ssrshare.com/)
 freegfw  ||[15](https://freegfw.cf/)
 
 
+## 个人搭建
+[2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)
 
 # 导航网站
 网站               |备注             |点击访问
