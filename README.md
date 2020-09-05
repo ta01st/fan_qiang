@@ -50,7 +50,11 @@ EGOUZ||[2](https://www.egouz.com/)
 ================================================
 
 # 概要
-大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray、自己搭建
+个人想要科学上网：  
+利用软件科学上网，大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash、自己搭建。  
+利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为我不会，因为我没用过，因为我需求没那么大。  
+
+个人推荐：用SS/SSR/V2ray/Clash，至于节点的问题，在本页面的机场推荐和相关网站上可以解决。
 ## 在线代理
 网站|备注|链接
 :-:|:-:|:-:
