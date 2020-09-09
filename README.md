@@ -26,8 +26,6 @@
 [百度百科：翻墙](https://baike.baidu.com/item/%E7%BF%BB%E5%A2%99/754773?fr=aladdin)  
 [百度百科：计算机信息网络国际互联网安全保护管理办法](https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E7%BD%91%E5%AE%89%E5%85%A8%E4%BF%9D%E6%8A%A4%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95)  
 [arXiv](https://arxiv.org/)      
-[Google Scholar](https://scholar.google.com.hk/?hl=zh-CN)  
-[Google图书](https://books.google.com/?hl=zh-CN)  
 [BBC](https://www.bbc.com/)      
 [BBC News 中文](https://www.bbc.com/zhongwen/simp.amp)  
 [Coursade](http://www.coursade.com/)  
@@ -46,13 +44,14 @@ EGOUZ||[2](https://www.egouz.com/)
 看国外||[5](http://www.kguowai.com/)    
 去看看||[6](http://www.qkk999.com/)  
 
+> 更多的世界网站导航看这里： [导航的导航](https://xydh.fun/tiangongzi)，这是我在[炫猿](https://xydh.fun/)上做的一个小站。
 
 ================================================
 
 # 概要
-个人想要科学上网：  
-利用软件科学上网，大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash、自己搭建。  
-利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为没用过，因为不会。  
+**个人**想要科学上网：  
++ 利用软件科学上网，大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash、自己搭建。  
++ 利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为没用过，因为不会。  
 
 个人推荐：用SS/SSR/V2ray/Clash，至于节点的问题，本页面也可以解决。
 ## 在线代理
@@ -80,7 +79,7 @@ VPN    |Android| Windows |另外支持|备注
 猴王VPN |√     |未知 |未知     |谷歌商店下载
 小明VPN |√     |×    | IOS     |[官网](https://gitithub.com/xm19/blob/master/)
 蓝灯    |√     |√    |IOS；Mac；Ubuntu|500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
-VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
+VPN Gate|√     |√    |Mac, IOS  |[官网](https://wwwvpngate.net/cn/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
 
 
