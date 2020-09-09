@@ -72,23 +72,39 @@ Opera       |√       |√   |Mac、Linux |Opera 40以上；[官网](https://ww
 
 
 ## VPN  
-VPN    |Android| PC |另外支持|备注
+
+**我用过，能用的**
+VPN    |Android| Windows |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
 老王VPN |√     |√    |IOS；Mac|谷歌商店下载
 猴王VPN |√     |未知 |未知     |谷歌商店下载
 小明VPN |√     |×    | IOS     |[官网](https://gitithub.com/xm19/blob/master/)
 蓝灯    |√     |√    |IOS；Mac；Ubuntu|500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 VPN Gate|√     |√    |         |[官网](https://www.vpngate.net/cn/)
-Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |10G/月（无email注册2G/月）[官网](https://windscribe.com/)
-Hide.me |√     |√    |IOS；Mac；Linux |2G/月；[官网](https://hide.me/en/)
-Tunnelbear|√   |√    |IOS；Mac；chrome extension |500M/月；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
-Psiphon |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
-黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
-TomVPN   |√    |×    |    无     |20G/月，可看广告得流量；[开源网址](https://gitlab.com/tomxiaoha/tom)
 
 
-> 待查：[Free OpenVPN](https://www.freeopenvpn.org/en/) ; [OPENVPN](https://openvpn.net/) ; [SPEEDTEST](https://www.speedtest.net/) ; [SetupVPN](https://setupvpn.com/) 
+**还没来得及用的**
+VPN    |Android| Windows |另外支持|备注
+-------|:-----:|:---:|:-----:|:------:
+Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |10G/月（无email注册2G/月）[官网](https://windscribe.com/)
+Hide.me   |√     |√    |IOS；Mac；Linux |2G/月；[官网](https://hide.me/en/)
+Tunnelbear|√   |√    |IOS；Mac；chrome extension |500M/月；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
+Psiphon   |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
+黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
+TomVPN    |√    |×    |    无     |20G/月，可看广告得流量；[开源网址](https://gitlab.com/tomxiaoha/tom)
+Free OpenVPN|√     |√    |IOS, Mac, Linux     |[官网](https://www.freeopenvpn.org/en/)
+OPENVPN   |√     |√    |IOS, Mac, Linux     |[官网](https://openvpn.net/)
+SPEEDTEST |√     |√    |IOS, Mac, Linux, Chrome, Apple TV |[官网](https://www.speedtest.net/)
+SetupVPN  |√     |√    |IOS, Mac, Linux, Chrome, Firefox, Edge, Opera, Chrome OS  |[官网](https://setupvpn.com/)
+Mast VPN  |√     |×    |    无     |[官网](https://www.mast-studio.net/)
+Savage VPN| √    |×    | 无       |[官网](https://www.savagevpn.com/)
+VPN4Test  |√     |√    |Mac, Linux|[官网](https://vpn4test.com/download)
+Rava VPN  |√     |√    |IOS, Mac  |[官网](https://anyuezhixin.cn/)
+Free VPN  |√     |×    |IOS       |[官网](https://freevpn.org/)
+Tenon VPN |√     |√    |IOS, Mac, Linux  |[官网](https://www.tenonvpn.net/?id=e12d611320bc93949d235d5c46684fcd6cbd9865d2f0c81bd451dc88715e1baa)
+
+
 
 
 ## browser entension
@@ -133,6 +149,7 @@ freegfw  ||[15](https://freegfw.cf/)
 
 
 ## 个人搭建
+在YouTube遇到的一个教程：  
 [2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)
 
 # 导航网站
@@ -204,6 +221,8 @@ VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)
 兔兔加速|3天||[5](https://v2.558844.xyz/)
 坚果VPN|1天||[6](https://nutsvpn.work/)  
 光年VPN|1天||[7](https://lightyearapp.club/zh)
+快连   |1天||[8](https://letsvpn.world/?hl=zh)
+
 ||||
 免费翻墙网总结|||[总结](https://freefq.com/vpn/)
 
