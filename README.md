@@ -156,8 +156,9 @@ freegfw  ||[15](https://freegfw.cf/)
 
 
 ## 个人搭建
-在YouTube遇到的一个教程：  
-[2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)
+在YouTube遇到的教程：  
++ [2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)   
++ [仅需一个邮箱，利用heroku免费容器一分钟内零代码快速搭建不熟V2ray，比VPN翻墙安全，科学上网白嫖党千万不要错过了！](https://www.youtube.com/watch?v=XyI4NgjLCUo)
 
 # 导航网站
 网站               |备注             |点击访问
@@ -242,6 +243,7 @@ VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)
 DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 
 =======================================================
+
 ——悟空  
 ——我传你翻墙之计，是让你在野外为所欲为的吗？  
 .  
