@@ -157,7 +157,8 @@ freegfw  ||[15](https://freegfw.cf/)
 
 ## 个人搭建
 在YouTube遇到的教程：  
-+ [2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)   
++ ~~[2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)~~    
+有个YouTuber说[IBM不管用了](https://m.youtube.com/watch?v=JcyxZmTagNE)，我也不知道是不是，
 + [仅需一个邮箱，利用heroku免费容器一分钟内零代码快速搭建不熟V2ray，比VPN翻墙安全，科学上网白嫖党千万不要错过了！](https://www.youtube.com/watch?v=XyI4NgjLCUo)
 
 # 导航网站
