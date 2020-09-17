@@ -69,43 +69,31 @@ AlloX-Proxy ||[1](https://dy.qnid.cc/)
  
 
 ## proxy browser
-浏览器       |Android| PC |另外支持|备注
-------      |:-----: |:--:|:----:|:-----:
-灵狐浏览器   |   √    |√   |  IOS     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
-龙卷风浏览器 |×       |√   |
-绿光浏览器   |√       |√   |IOS、Mac   |需手机号登录；[官网](https://www.sgreennet.com/)  
-Opera       |√       |√   |Mac、Linux |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
+
+Proxy Browser |Android|IOS|Windows|Mac|Linux|Note
+--------------|:-----:|:-:|:-----:|:-:|:---:|:--:
+灵狐浏览器    |√      |√  |       |   |     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
+龙卷风浏览器  |       |   |√      |   |     |
+绿光浏览器    |√      |√  |√      |√  |     |需手机号登录；[官网](https://www.sgreennet.com/)  
+Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
 
 
 
 ## VPN  
 
 **我用过，能用的**
-VPN    |Android| Windows |另外支持|备注
--------|:-----:|:---:|:-----:|:------:
-老王VPN |√     |√    |IOS；Mac|[官网](https://www.laowang.cn.com/)
-猴王VPN |√     |未知 |未知     |谷歌商店下载
-小明VPN |√     |×    | IOS     |不稳定；[官网](https://gitithub.com/xm19/blob/master/)
-蓝灯    |√     |√    |IOS；Mac；Ubuntu|500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
-VPN Gate|√     |√    |Mac, IOS  |[官网](https://wwwvpngate.net/cn/)
-ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
+
+VPN           |Android|IOS|Windows|Mac|Linux|Browser Entensions|Others|Note
+--------------|:-----:|:-:|:-----:|:-:|:---:|:----------------:|:----:|:--:
+老王VPN       |√      |√  |√      |√  |     |                  |      |[官网](https://www.laowang.cn.com/)
+VPN Gate      |√      |√  |√      |√  |     |                  |      |[官网](https://wwwvpngate.net/cn/)
+蓝灯          |√      |√  |√      |√  |√    |                  |      |500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
+小明VPN       |√      |√  |       |   |     |                  |      |不稳定；[官网](https://gitithub.com/xm19/blob/master/)
+猴王VPN       |√      |   |       |   |     |                  |      |谷歌商店下载
+ProtonVPN     |√      |√  |√      |√  |√    |                  |Router|[官网](https://protonvpn.com/)  
 
 
 **还没来得及用的**
-VPN    |Android| Windows |另外支持|备注
--------|:-----:|:---:|:-----:|:------:
-OPENVPN   |√     |√    |IOS, Mac, Linux     |[官网](https://openvpn.net/)
-SPEEDTEST |√     |√    |IOS, Mac, Linux, Chrome, Apple TV |[官网](https://www.speedtest.net/)
-Mast VPN  |√     |×    |    无     |[官网](https://www.mast-studio.net/)
-Savage VPN|√     |×    | 无       |[官网](https://www.savagevpn.com/)
-VPN4Test  |√     |√    |Mac, Linux|[官网](https://vpn4test.com/download)
-Rava VPN  |√     |√    |IOS, Mac  |[官网](https://anyuezhixin.cn/)
-Free VPN  |√     |×    |IOS       |[官网](https://freevpn.org/)
-Tenon VPN |√     |√    |IOS, Mac, Linux  |[官网](https://www.tenonvpn.net/?id=e12d611320bc93949d235d5c46684fcd6cbd9865d2f0c81bd451dc88715e1baa)
-杰克VPN   |√     |×    |无         |[官网](https://gitithub.com/jack/blob/master/)
-JustVPN   |√     |Coming soon…|IOS |[官网](https://justvpn.net/)
-逗鲨/蓝鲸VPN|√   |未知 |未知        |[官网](https://www.whalerun.net/)
-
 
 VPN           |Android|IOS|Windows|Mac|Linux|Browser Entensions|Others|Note
 --------------|:-----:|:-:|:-----:|:-:|:---:|:----------------:|:----:|:--:
@@ -118,9 +106,17 @@ SetupVPN      |√ |COMING SOON|√   |√  |√    |Chrome, Firefox, Edge|Chrom
 TomVPN        |√      |   |       |   |     |                  |      |20G/月，可看广告得流量；[开源网址](https://gitlab.com/tomxiaoha/tom)
 Free OpenVPN  |√      |√  |√      |√  |√    |                  |      |[官网](https://www.freeopenvpn.org/en/)
 DotVPN        |√      |√  |       |   |     |Chrome, Firefox, Opera|  |[官网](https://dotvpn.com/en)
-
-
-
+OPENVPN       |√      |√  |√      |√  |√    |                  |      |[官网](https://openvpn.net/)
+SPEEDTEST     |√      |√  |√      |√  |√    |Chrome            |Apple TV|[官网](https://www.speedtest.net/)
+Mast VPN      |√      |   |       |   |     |                  |       |[官网](https://www.mast-studio.net/)
+Savage VPN    |√      |   |       |   |     |                  |       |[官网](https://www.savagevpn.com/)
+VPN4Test      |√      |   |√      |√  |√    |                  |       |[官网](https://vpn4test.com/)    
+Rava VPN      |√      |√  |√      |√  |     |                  |       |[官网](https://anyuezhixin.cn/)  
+Free VPN      |√      |√  |       |   |     |                  |       |[官网](https://freevpn.org/)    
+Tenon VPN     |√      |√  |√      |√  |√    |                  |       |[官网](https://www.tenonvpn.net/)
+杰克VPN       |√      |   |       |   |     |                  |       |[官网](https://gitithub.com/jack/blob/master/)
+JustVPN       |√      |√  |Coming soon…||   |                  |       |[官网](https://justvpn.net/)
+逗鲨/蓝鲸VPN  |√      |   |       |   |     |                  |       |[官网](https://www.whalerun.net/)
 
 
 
@@ -130,10 +126,9 @@ DotVPN        |√      |√  |       |   |     |Chrome, Firefox, Opera|  |[官�
 ## browser entension
 extension    |备注  |安装
 ---|:---:|:----:
-Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon)
-Tunnelbear VPN|chrome extesion    |[2](https://chrome.google.com/webstore/detail/tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa)  
+Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
 
-> 本人不常用，看心情添加
+> 本人不常用，随缘添加
 
 ## SS/SSR/V2ray
 
