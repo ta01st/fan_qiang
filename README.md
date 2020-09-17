@@ -83,9 +83,9 @@ Opera       |√       |√   |Mac、Linux |Opera 40以上；[官网](https://ww
 **我用过，能用的**
 VPN    |Android| Windows |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
-老王VPN |√     |√    |IOS；Mac|谷歌商店下载
+老王VPN |√     |√    |IOS；Mac|[官网](https://www.laowang.cn.com/)
 猴王VPN |√     |未知 |未知     |谷歌商店下载
-小明VPN |√     |×    | IOS     |[官网](https://gitithub.com/xm19/blob/master/)
+小明VPN |√     |×    | IOS     |不稳定；[官网](https://gitithub.com/xm19/blob/master/)
 蓝灯    |√     |√    |IOS；Mac；Ubuntu|500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 VPN Gate|√     |√    |Mac, IOS  |[官网](https://wwwvpngate.net/cn/)
 ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)  
@@ -94,22 +94,35 @@ ProtonVPN|√    |√    |IOS；Linux|[官网](https://protonvpn.com/)
 **还没来得及用的**
 VPN    |Android| Windows |另外支持|备注
 -------|:-----:|:---:|:-----:|:------:
-Windscribe|√   |√    |IOS；Mac；Linux；browser extension；Router；TV   |10G/月（无email注册2G/月）[官网](https://windscribe.com/)
-Hide.me   |√     |√    |IOS；Mac；Linux |2G/月；[官网](https://hide.me/en/)
-Tunnelbear|√   |√    |IOS；Mac；chrome extension |500M/月；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
-Psiphon   |√     |√    |IOS     |[官网](https://psiphon.ca/zh/)
-黑洞加速器|√    |×    |IOS     |[官网](https://www.hd86048.com/)
-TomVPN    |√    |×    |    无     |20G/月，可看广告得流量；[开源网址](https://gitlab.com/tomxiaoha/tom)
-Free OpenVPN|√     |√    |IOS, Mac, Linux     |[官网](https://www.freeopenvpn.org/en/)
 OPENVPN   |√     |√    |IOS, Mac, Linux     |[官网](https://openvpn.net/)
 SPEEDTEST |√     |√    |IOS, Mac, Linux, Chrome, Apple TV |[官网](https://www.speedtest.net/)
-SetupVPN  |√     |√    |IOS, Mac, Linux, Chrome, Firefox, Edge, Opera, Chrome OS  |[官网](https://setupvpn.com/)
 Mast VPN  |√     |×    |    无     |[官网](https://www.mast-studio.net/)
-Savage VPN| √    |×    | 无       |[官网](https://www.savagevpn.com/)
+Savage VPN|√     |×    | 无       |[官网](https://www.savagevpn.com/)
 VPN4Test  |√     |√    |Mac, Linux|[官网](https://vpn4test.com/download)
 Rava VPN  |√     |√    |IOS, Mac  |[官网](https://anyuezhixin.cn/)
 Free VPN  |√     |×    |IOS       |[官网](https://freevpn.org/)
 Tenon VPN |√     |√    |IOS, Mac, Linux  |[官网](https://www.tenonvpn.net/?id=e12d611320bc93949d235d5c46684fcd6cbd9865d2f0c81bd451dc88715e1baa)
+杰克VPN   |√     |×    |无         |[官网](https://gitithub.com/jack/blob/master/)
+JustVPN   |√     |Coming soon…|IOS |[官网](https://justvpn.net/)
+逗鲨/蓝鲸VPN|√   |未知 |未知        |[官网](https://www.whalerun.net/)
+
+
+VPN           |Android|IOS|Windows|Mac|Linux|Browser Entensions|Others|Note
+--------------|:-----:|:-:|:-----:|:-:|:---:|:----------------:|:----:|:--:
+Windscribe    |√      |√  |√      |√  |√    |Chrome, Fireox, Opera|TV, Router|10G/月（无email注册2G/月）[官网](https://chn.windscribe.com/)
+Hide.me       |√      |√  |√      |√  |√    |                  |      |2G/月；[官网](https://hide.me/en/)
+Tunnelbear    |√      |√  |√      |√  |     |Chrome            |      |500M/月；安卓端需Google Play服务；[官网](https://www.tunnelbear.com/)
+Psiphon       |√      |√  |√      |   |     |                  |      |[官网](https://psiphon.ca/zh/)
+黑洞加速器    |√      |√  |       |   |     |                  |      |[官网](https://www.hd86048.com/)
+SetupVPN      |√ |COMING SOON|√   |√  |√    |Chrome, Firefox, Edge|Chrome OS|[官网](https://setupvpn.com/)
+TomVPN        |√      |   |       |   |     |                  |      |20G/月，可看广告得流量；[开源网址](https://gitlab.com/tomxiaoha/tom)
+Free OpenVPN  |√      |√  |√      |√  |√    |                  |      |[官网](https://www.freeopenvpn.org/en/)
+DotVPN        |√      |√  |       |   |     |Chrome, Firefox, Opera|  |[官网](https://dotvpn.com/en)
+
+
+
+
+
 
 
 
@@ -153,6 +166,9 @@ V2RaySSR综合网||[11](https://www.v2rayssr.com/)
 V2Ray中文网||[13](https://v2raycn.com/) 
 SSRSHARE||[14](https://www.ssrshare.com/)
 freegfw  ||[15](https://freegfw.cf/)
+我们所向往的||[16](https://gmail.gitbook.io/wmsxwd/)
+
+
 
 
 ## 个人搭建
@@ -189,6 +205,7 @@ VPNnice  |   |[11](https://www.vpnnice.com/)
 翻墙党     |  |[12](https://fanqiangdang.com/)  
 免费翻墙网 |  |[13](https://freefq.com/)  
 爱翻墙    |   |[14](http://greatagent-ifanqiang.github.io/greatagent2-ga/ifanqiang.htm)  
+小明VPN   |   |[官网](https://www.xiaomingvpn.com/)
 
 
 ## 附注1
