@@ -85,7 +85,7 @@ Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](h
 
 VPN           |Android|IOS|Windows|Mac|Linux|Browser Entensions|Others|Note
 --------------|:-----:|:-:|:-----:|:-:|:---:|:----------------:|:----:|:--:
-老王VPN       |√      |√  |√      |√  |     |                  |      |[官网](https://www.laowang.cn.com/)
+老王VPN       |√      |√  |√      |√  |     |                  |      |[官网1](https://www.laowang.cn.com/), [官网2](https://zsxcool.com/)
 VPN Gate      |√      |√  |√      |√  |     |                  |      |[官网](https://wwwvpngate.net/cn/)
 蓝灯          |√      |√  |√      |√  |√    |                  |      |500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 小明VPN       |√      |√  |       |   |     |                  |      |不稳定；[官网](https://gitithub.com/xm19/blob/master/)
@@ -117,6 +117,7 @@ Tenon VPN     |√      |√  |√      |√  |√    |                  |      
 杰克VPN       |√      |   |       |   |     |                  |       |[官网](https://gitithub.com/jack/blob/master/)
 JustVPN       |√      |√  |Coming soon…||   |                  |       |[官网](https://justvpn.net/)
 逗鲨/蓝鲸VPN  |√      |   |       |   |     |                  |       |[官网](https://www.whalerun.net/)
+TunSafe       |       |   |√      |   |     |                  |       |[官网](https://tunsafe.com/)
 
 
 
@@ -162,6 +163,7 @@ V2Ray中文网||[13](https://v2raycn.com/)
 SSRSHARE||[14](https://www.ssrshare.com/)
 freegfw  ||[15](https://freegfw.cf/)
 我们所向往的||[16](https://gmail.gitbook.io/wmsxwd/)
+Qv2ray     ||[17](https://qv2ray.net/)
 
 
 
@@ -200,8 +202,8 @@ VPNnice  |   |[11](https://www.vpnnice.com/)
 翻墙党     |  |[12](https://fanqiangdang.com/)  
 免费翻墙网 |  |[13](https://freefq.com/)  
 爱翻墙    |   |[14](http://greatagent-ifanqiang.github.io/greatagent2-ga/ifanqiang.htm)  
-小明VPN   |   |[官网](https://www.xiaomingvpn.com/)
-
+小明VPN   |   |[15](https://www.xiaomingvpn.com/)
+世界公民  |   |[16](https://www.49gm.org/)
 
 ## 附注1
 在 GitHub / YouTube 搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
