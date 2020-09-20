@@ -118,7 +118,7 @@ Tenon VPN     |√      |√  |√      |√  |√    |                  |      
 JustVPN       |√      |√  |Coming soon…||   |                  |       |[官网](https://justvpn.net/)
 逗鲨/蓝鲸VPN  |√      |   |       |   |     |                  |       |[官网](https://www.whalerun.net/)
 TunSafe       |       |   |√      |   |     |                  |       |[官网](https://tunsafe.com/)
-
+一键连加速器  |√      |√  |敬请期待|敬请期待||                  |       |[官网](https://firstadmedia.cn/)
 
 
 
@@ -142,7 +142,7 @@ lncn.org |                                   |[1](https://lncn.org/)
 翻墙党   |[3](https://fanqiangdang.com/forum-50-1.html)|[4](https://fanqiangdang.com/forum-2-1.html)  |[3](https://fanqiangdang.com/forum-36-1.html)
 免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
 ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
-
+free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
 
 ### 相关网站
 网站|备注|点击访问
