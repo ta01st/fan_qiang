@@ -72,7 +72,7 @@ AlloX-Proxy ||[1](https://dy.qnid.cc/)
 
 Proxy Browser |Android|IOS|Windows|Mac|Linux|Note
 --------------|:-----:|:-:|:-----:|:-:|:---:|:--:
-灵狐浏览器    |√      |√  |       |   |     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
+灵狐浏览器    |√      |√  |√       |   |     |需手机号登录；[官网](https://ie.linkfoxvpn.com/#/)
 龙卷风浏览器  |       |   |√      |   |     |
 绿光浏览器    |√      |√  |√      |√  |     |需手机号登录；[官网](https://www.sgreennet.com/)  
 Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
