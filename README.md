@@ -58,10 +58,10 @@ EGOUZ||[2](https://www.egouz.com/)
 
 # 概要
 **个人**想要科学上网：  
-+ 利用软件科学上网，大致有如下几个方法：在线代理、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash、自己搭建。  
++ 利用软件科学上网，大致有如下几个方法：在线代理网站、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash/Clashr、在系统设置里设置VPN或代理、自己搭建。  
 + 利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为没用过，因为不会。  
 
-个人推荐：用SS/SSR/V2ray/Clash，至于节点的问题，本页面也可以解决。
+个人推荐：用SS/SSR/V2ray/Clash/Clashr，至于节点的问题，本页面也可以解决。
 ## 在线代理
 网站|备注|链接
 :-:|:-:|:-:
@@ -134,7 +134,17 @@ Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail
 
 > 本人不常用，随缘添加
 
-## SS/SSR/V2ray
+## SS/SSR/V2ray/Clash/Clashr
+
+### 软件下载
+网站|备注|点击访问
+--|:--:|:--:
+v2rayNG（Android）下载||[1](https://github.com/2dust/v2rayNG)
+v2rayN（Windows）下载||[2](https://github.com/2dust/v2rayN)
+clash（Windows & Linux）||[3](https://github.com/Dreamacro/clash)
+
+
+
 
 ### 免费节点分享
 网站      |ss                                        |ssr                                                  |v2ray|
@@ -160,7 +170,6 @@ Qv2ray     ||[2](https://qv2ray.net/)
 ##### GitHub项目
 网站|备注|点击访问
 --|:--:|:--:
-v2ray安卓端下载||[1](https://github.com/2dust/v2rayNG)
 Share-SSR-V2ray||[2](https://github.com/selierlin/Share-SSR-V2ray)
 new-pac||[3](https://github.com/Alvin9999/new-pac/wiki )
 
@@ -181,6 +190,18 @@ freegfw  ||[10](https://freegfw.cf/)
 我们所向往的||[11](https://gmail.gitbook.io/wmsxwd/)
 
 
+## 在系统设置里设置VPN或代理
+这种方法不需要下载任何软件就可以实现科学上网。
+平台|方法
+:-----:|:-----:|
+Android（以华为手机为例）|设置——更多连接——VPN——添加VPN网络——。。。
+Windows（以Windows 10为例）|设置——网络和Internet——VPN——添加VPN连接——。。。/ 设置——网络和Internet——代理——。。。
+
+后面的步骤根据使用代理设置的不同而不同，以下是提供VPN或代理的网站。
+网站|备注|点击访问
+--|:--:|:--:
+VPN Gate||[官网](https://www.vpngate.net/cn/)
+Free Proxy List||[官网](https://free-proxy-list.net/)
 
 
 
