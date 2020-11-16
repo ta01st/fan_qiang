@@ -14,6 +14,7 @@
 + #### [机场导航](#17)
 ### [在系统设置里设置VPN或代理](#13)
 ### [自己搭建服务器](#14)
+### [搭建路由](#18)
 ## [其他翻墙方法总结](#15)
 ## [翻墙信息](#16)
 
@@ -73,7 +74,7 @@ EGOUZ||[2](https://www.egouz.com/)
 ### <h1 id="4">概要<h1>
 非重度科学上网玩家：  
 + 利用软件科学上网，大致有如下几个方法：在线代理网站、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash/Clashr、在系统设置里设置VPN或代理、自己搭建服务器。  
-+ 利用硬件科学上网，好像有软路由和硬路由之分。在这不说，因为没用过，因为不会。  
++ 利用硬件科学上网，好像有软路由和硬路由之分。我没用过，也不会，只放一个遇到的视频。  
 
 ### <h1 id="5">在线代理<h1>
 网站|备注|链接
@@ -224,6 +225,9 @@ Free Proxy List||[官网](https://free-proxy-list.net/)
 + [仅需一个邮箱，利用heroku免费容器一分钟内零代码快速搭建不熟V2ray，比VPN翻墙安全，科学上网白嫖党千万不要错过了！](https://www.youtube.com/watch?v=XyI4NgjLCUo)
 + [2020年最新永久免费云服务器VPS （HeroKu）申请，搭建免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！速度4K稳定奔放，已经用一年！ - YouTube](https://www.youtube.com/watch?v=xEewUeWDNeI)
 
+
+### <h1 id="18">搭建路由<h1>
+ [软路由安装教程，闲置笔记本设置旁路由，双臂路由！科学上网更快更稳定！2020 | 零度解说 - YouTube](https://www.youtube.com/watch?v=nEU4hbZYj6c&ab)
 
 ## <h1 id="15">其他翻墙方法总结<h1>
 网站|备注|点击访问
