@@ -94,6 +94,8 @@ Tuber浏览器   |√      |敬请期待|   |   |    |[官网](http://pc.txappne
 绿光浏览器    |√      |√  |√      |√  |     |需手机号登录；[官网](https://www.sgreennet.com/)  
 Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
 
+> 最近从一个公众号看到，UPX浏览器复活了。这是去年我刚接触科学上网时用的，当时一并接触到的还有Aloha Browser等三四个内置VPN的浏览器。
+
 ### <h1 id="7">VPN<h1>  
 
 **我用过，能用的**
@@ -177,7 +179,7 @@ lncn.org |                                   |[1](https://lncn.org/)
 免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
 ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
 free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
-
+[node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
 
 #### <h1 id="17">机场导航<h1>
 网站|备注|点击访问
