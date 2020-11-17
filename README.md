@@ -180,6 +180,8 @@ lncn.org |                                   |[1](https://lncn.org/)
 ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
 free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
 [node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
+[ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
+
 
 #### <h1 id="17">机场导航<h1>
 网站|备注|点击访问
@@ -247,7 +249,7 @@ Free Proxy List||[官网](https://free-proxy-list.net/)
 --|:--:|:--:
 Share-SSR-V2ray||[2](https://github.com/selierlin/Share-SSR-V2ray)
 new-pac||[3](https://github.com/Alvin9999/new-pac/wiki )
-
+w3-goto-world||[4](w3-goto-world)
 
 ## <h1 id="16">翻墙信息<h1>
 网站|备注|点击访问
