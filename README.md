@@ -168,6 +168,9 @@ v2ray官网||[①](https://v2ray.com/) / [②](https://www.v2ray.com/)
 Qv2ray ||[6](https://qv2ray.net/)
 electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
 ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
+shadowsocksrr||[9](https://github.com/shadowsocksrr)
+
+
 
 #### <h1 id="11">免费节点分享<h1>
 网站      |ss                                        |ssr                                                  |v2ray|
