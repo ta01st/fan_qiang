@@ -75,7 +75,7 @@ EGOUZ||[2](https://www.egouz.com/)
 ### <h1 id="4">概要<h1>
 非重度科学上网玩家：  
 + 利用软件科学上网，大致有如下几个方法：在线代理网站、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash/Clashr、在系统设置里设置VPN或代理、自己搭建服务器。  
-+ 利用硬件科学上网，好像有软路由和硬路由之分。我没用过，也不会，只放一个遇到的视频。  
++ 利用硬件科学上网，好像有软路由和硬路由之分。我没用过，也不会，只放几个遇到的视频。  
 
 ### <h1 id="5">在线代理<h1>
 网站|备注|链接
@@ -247,6 +247,7 @@ Free Proxy List||[官网](https://free-proxy-list.net/)
 ### <h1 id="18">搭建路由<h1>
 + [软路由安装教程，闲置笔记本设置旁路由，双臂路由！科学上网更快更稳定！2020 | 零度解说 - YouTube](https://www.youtube.com/watch?v=nEU4hbZYj6c&ab)
 + [（小白也能学会）❤群辉NAS安装软路由，软路由设置，无线AP设置，家庭网络设置，比较详细适合新手【#阿雷科技】 - YouTube](https://www.youtube.com/watch?v=qbWWGEHBowQ&ab)
++ [R2S软路由销量之王！R2S安装openwrt攻略 openwrt软路由设置 - YouTube](https://www.youtube.com/watch?v=ZCmbbnIBD78&ab)
 
 ## <h1 id="15">其他翻墙方法总结<h1>
 网站|备注|点击访问
