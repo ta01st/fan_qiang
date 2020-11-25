@@ -186,7 +186,7 @@ free-v2ray|                                       |                             
 [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
 
 
-#### <h1 id="17">机场导航<h1>
+#### <h1 id="17">机场导航网站<h1>
 网站|备注|点击访问
 ---|:--:|:--:
 翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
@@ -197,12 +197,20 @@ DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 #### <h1 id="19">机场推荐<h1>
 > 本人是个学生，是个白嫖党，以下推荐是自己使用过的能够白嫖的机场，安全性未知，速度未知，无任何利益相关。
  
-网站|备注|点击访问
---|:--:|:--:
-XiXicats|注册送100G流量，每日签到送流量，五个免费SSR节点。账号2022年9月26过期，可删除账号（再次注册，再有100G，过期时间不变）|[1](https://xixicats.pw/user#)
-5DYUN|注册送50G流量，30天会员，签到送流量，在线设备数：10，可删除账号。第一次注册过期一两天后，我删除账号重新注册（2020.10.12），送100G流量，30天会员，签到送流量，在线设备数：5。2020年11月11日，删除账号，第三次注册，送10G流量，7天会员，签到送流量，在线设备数：5。2020.11.18，第四次注册，一切如第三次。|[2](https://5dyun.cf/user)
+网站|点击访问
+--|:--:
+XiXicats|[1](https://xixi.ph/auth/register?code=lL7M)
+5DYUN|[2](https://5dyun.cf/auth/register？code=BrAo)
+跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)
+极简||[4](https://www.wiougong.space/auth/register?code=rmfL)
 
-> 应该是机场一直在改变新用户的赠送内容，所以机场白嫖套餐有时效性。
+
+一般在机场注册账号后，会赠送几个小时或几天，甚至几个月的体验时间。一般机场节点分为几个等级，体验身份一般是最低的那个节点等级。体验流量可能是1G、10G甚至更多。正常使用机场，既需要会员时长，也需要机场的流量，二者缺一不可。机场的套餐价格、体验套餐根据机场运行情况和社会环境不断变化。
+
+有的机场可以删除账号，可以借助这个途径不断注册，白嫖体验。也可以借助临时邮箱注册多个账号，不过，一般机场对于注册邮箱的域名都有限制，这就要看谁高一尺了。
+
+有专门分享免费节点的网站、YouTuber。
+
 
 #### <h1 id="12">其他相关网站<h1>
 网站|备注|点击访问
@@ -233,6 +241,7 @@ Windows（以Windows 10为例）|设置——网络和Internet——VPN——添
 --|:--:|:--:
 VPN Gate||[官网](https://www.vpngate.net/cn/)
 Free Proxy List||[官网](https://free-proxy-list.net/)
+FreeProxy.World||[官网](https://www.freeproxy.world/)
 
 ### <h1 id="14">自己搭建服务器<h1>
 > 这也是利用V2ray，因为需要动手的内容多一点，所以单拿出来说说
