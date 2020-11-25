@@ -202,7 +202,7 @@ DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 XiXicats|[1](https://xixi.ph/auth/register?code=lL7M)
 5DYUN|[2](https://5dyun.cf/auth/register？code=BrAo)
 跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)
-极简||[4](https://www.wiougong.space/auth/register?code=rmfL)
+极简|[4](https://www.wiougong.space/auth/register?code=rmfL)
 
 
 一般在机场注册账号后，会赠送几个小时或几天，甚至几个月的体验时间。一般机场节点分为几个等级，体验身份一般是最低的那个节点等级。体验流量可能是1G、10G甚至更多。正常使用机场，既需要会员时长，也需要机场的流量，二者缺一不可。机场的套餐价格、体验套餐根据机场运行情况和社会环境不断变化。
