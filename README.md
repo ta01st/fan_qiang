@@ -241,9 +241,12 @@ Windows（以Windows 10为例）|设置——网络和Internet——VPN——添
 后面的步骤根据使用代理设置的不同而不同，以下是提供VPN或代理的网站。
 网站|备注|点击访问
 --|:--:|:--:
-VPN Gate||[官网](https://www.vpngate.net/cn/)
-Free Proxy List||[官网](https://free-proxy-list.net/)
-FreeProxy.World||[官网](https://www.freeproxy.world/)
+VPN Gate||[1](https://www.vpngate.net/cn/)
+Free Proxy List||[2](https://free-proxy-list.net/)
+FreeProxy.World||[3](https://www.freeproxy.world/)
+Free-Proxy.com||[4](http://free-proxy.cz/zh/)
+
+
 
 ### <h1 id="14">自己搭建服务器<h1>
 > 这也是利用V2ray，因为需要动手的内容多一点，所以单拿出来说说
