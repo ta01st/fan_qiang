@@ -49,6 +49,7 @@ EGOUZ||[2](https://www.egouz.com/)
 网站|备注|链接
 :-:|:-:|:-:
 AlloX-Proxy ||[1](https://dy.qnid.cc/)
+[2020年现役 TOP5 谷歌浏览器VPN翻墙插件，免费稳定快速高效！速度50000kB，无广告，一键连接，备用必选！ - YouTube](https://www.youtube.com/watch?v=keQmJaFQxVc)
  
  > 我认为并且相信，在现在这个互联网发展状态，某一类网站、app不是唯一的，没有是因为还没遇见，没找到。（所以，需要的话就去找吧，我没找过。）
 
