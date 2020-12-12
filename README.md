@@ -138,7 +138,7 @@ Qv2ray ||[6](https://qv2ray.net/)
 electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
 ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
 shadowsocksrr||[9](https://github.com/shadowsocksrr)
-
+winXray||[10](https://github.com/winXray/winXray)
 
 
 #### <h1 id="11">免费节点分享<h1>
@@ -165,21 +165,22 @@ DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 
 #### <h1 id="19">机场推荐<h1>
 > 本人是个学生，是个白嫖党，以下推荐是自己使用过的能够白嫖的机场，安全性未知，速度未知，无任何利益相关。
+> 可能你注册后不能白嫖，毕竟我不能实时更新，列出几个机场，也是为了抛砖引玉，万事还是要靠自己。
  
-网站|点击访问
---|:--:
-土狗云网络加速|[0](http://inv.tudog.vip/0Vpbdp)
-XiXicats|[1](https://xixi.ph/auth/register?code=lL7M)
-5DYUN|[2](https://5dyun.cf/auth/)
-跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)
-极简|[4](https://www.wiougong.space/auth/register?code=rmfL)
+网站|点击访问|备注
+--|:--:|
+土狗云网络加速|[0](http://inv.tudog.vip/0Vpbdp)|
+~~XiXicats|[1](https://xixi.ph/auth/register?code=lL7M)|
+5DYUN|[2](https://5dyun.cf/)|~~
+跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)|
+极简|[4](https://www.wiougong.space/auth/register?code=rmfL)|
 
 
-一般在机场注册账号后，会赠送几个小时或几天，甚至几个月的体验时间。一般机场节点分为几个等级，体验身份一般是最低的那个节点等级。体验流量可能是1G、10G甚至更多。正常使用机场，既需要会员时长，也需要机场的流量，二者缺一不可。机场的套餐价格、体验套餐根据机场运行情况和社会环境不断变化。
+- 一般在机场注册账号后，会赠送几个小时或几天，甚至几个月的体验时间。一般机场节点分为几个等级，体验身份一般是最低的那个节点等级。体验流量可能是1G、10G甚至更多。正常使用机场，既需要会员时长，也需要机场的流量，二者缺一不可。机场的套餐价格、体验套餐根据机场运行情况和社会环境不断变化。
 
-有的机场可以删除账号，可以借助这个途径不断注册，白嫖体验。也可以借助临时邮箱注册多个账号，不过，一般机场对于注册邮箱的域名都有限制，这就要看谁高一尺了。
+- 有的机场可以删除账号，可以借助这个途径不断注册，白嫖体验。也可以借助临时邮箱注册多个账号，不过，一般机场对于注册邮箱的域名都有限制，这就要看谁高一尺了。
 
-有专门分享免费节点的网站、YouTuber。
+- 有专门分享免费节点的网站、YouTuber。
 
 
 #### <h1 id="12">其他相关网站<h1>
