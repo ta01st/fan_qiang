@@ -167,11 +167,11 @@ DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 > 本人是个学生，是个白嫖党，以下推荐是自己使用过的能够白嫖的机场，安全性未知，速度未知，无任何利益相关。
 > 可能你注册后不能白嫖，毕竟我不能实时更新，列出几个机场，也是为了抛砖引玉，万事还是要靠自己。
  
-网站|点击访问|备注
+网站|点击访问
 --|:--:|
 土狗云网络加速|[0](http://inv.tudog.vip/0Vpbdp)|
-~~XiXicats|[1](https://xixi.ph/auth/register?code=lL7M)|
-5DYUN|[2](https://5dyun.cf/)|~~
+~~XiXicats|[1](https://xixi.ph/auth/register?code=lL7M)~~|
+~~5DYUN|[2](https://5dyun.cf/)~~|
 跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)|
 极简|[4](https://www.wiougong.space/auth/register?code=rmfL)|
 
