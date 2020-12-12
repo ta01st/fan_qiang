@@ -171,7 +171,7 @@ DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 --|:--:|
 土狗云网络加速|[0](http://inv.tudog.vip/0Vpbdp)|
 ~~XiXicats~~|~~[1](https://xixi.ph/auth/register?code=lL7M)~~|
-~~5DYUN|[2](https://5dyun.cf/)~~|
+~~5DYUN~~|~~[2](https://5dyun.cf/)~~|
 跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)|
 极简|[4](https://www.wiougong.space/auth/register?code=rmfL)|
 
