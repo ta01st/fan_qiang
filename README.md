@@ -225,6 +225,8 @@ Free-Proxy.com||[4](http://free-proxy.cz/zh/)
 有个YouTuber说[IBM不管用了](https://m.youtube.com/watch?v=JcyxZmTagNE)。
 + [仅需一个邮箱，利用heroku免费容器一分钟内零代码快速搭建不熟V2ray，比VPN翻墙安全，科学上网白嫖党千万不要错过了！](https://www.youtube.com/watch?v=XyI4NgjLCUo)
 + [2020年最新永久免费云服务器VPS （HeroKu）申请，搭建免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！速度4K稳定奔放，已经用一年！ - YouTube](https://www.youtube.com/watch?v=xEewUeWDNeI)
+- [翻墙那些你务必要知道的事! 搭建科学上网该如何选择VPS？ | 零度解说 - YouTube](https://www.youtube.com/watch?v=dFaS9Db42Qc)
+
 
 
 ### <h1 id="18">搭建路由<h1>
