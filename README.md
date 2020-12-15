@@ -260,6 +260,7 @@ VPNnice  |   |[11](https://www.vpnnice.com/)
 爱翻墙    |   |[14](http://greatagent-ifanqiang.github.io/greatagent2-ga/ifanqiang.htm)  
 小明VPN   |   |[15](https://www.xiaomingvpn.com/)
 世界公民  |   |[16](https://www.49gm.org/)
+ VPN PICKS| |[17](https://www.vpnpicks.com/)
 
 ## 附注1
 在 GitHub / YouTube 搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
