@@ -139,6 +139,7 @@ electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
 ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
 shadowsocksrr||[9](https://github.com/shadowsocksrr)
 winXray||[10](https://github.com/winXray/winXray)
+Trojan||[11](https://trojan-gfw.github.io/trojan/)
 
 
 #### <h1 id="11">免费节点分享<h1>
@@ -269,6 +270,9 @@ VPNnice  |   |[11](https://www.vpnnice.com/)
 ## 附注1
 在 GitHub / YouTube 搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
 
+[大象 - YouTube](https://www.youtube.com/channel/UCsmzWUksB4VpLb4ncUT9HVA)
+
+> 高产，免费机场和VPN，
 
 ## 附注2
 免翻墙下谷歌商店软件
