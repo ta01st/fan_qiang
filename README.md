@@ -1,7 +1,5 @@
-明天早上睡醒了，这个页面就没了
-
 # 目录：
-## [告别语](#1)
+
 ## [世界网站导航](#2)
 ## [科学上网](#3)
 ### [概要](#4)
@@ -21,10 +19,6 @@
 ## [其他翻墙方法总结](#15)
 ## [翻墙信息](#16)
 
-
-## <h1 id="1">告别语</h1>
-
-[点此查看](https://github.com/TiantianPython/fan_qiang/wiki/%E5%91%8A%E5%88%AB%E8%AF%AD)
 
 
 ## <h1 id="2">世界网站导航</h1>
@@ -53,8 +47,6 @@ EGOUZ||[2](https://www.egouz.com/)
 AlloX-Proxy ||[1](https://dy.qnid.cc/)
 [2020年现役 TOP5 谷歌浏览器VPN翻墙插件，免费稳定快速高效！速度50000kB，无广告，一键连接，备用必选！ - YouTube](https://www.youtube.com/watch?v=keQmJaFQxVc)
  
- > 我认为并且相信，在现在这个互联网发展状态，某一类网站、app不是唯一的，没有是因为还没遇见，没找到。（所以，需要的话就去找吧，我没找过。）
-
 ### <h1 id="6">proxy browser<h1>
 
 Proxy Browser |Android|IOS|Windows|Mac|Linux|Note
@@ -124,7 +116,6 @@ extension    |备注  |安装
 ---|:---:|:----:
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
 
-> 本人不用，随缘添加
 
 ### <h1 id="9">SS/SSR/V2ray/Clash/Clashr<h1>
 
@@ -167,8 +158,6 @@ free-v2ray|                                       |                             
 DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 
 #### <h1 id="19">机场推荐<h1>
-> 本人是个学生，是个白嫖党，以下推荐是自己使用过的能够白嫖的机场，安全性未知，速度未知，无任何利益相关。
-> 可能你注册后不能白嫖，毕竟我不能实时更新，列出几个机场，也是为了抛砖引玉，万事还是要靠自己。
  
 > [机场为什么会跑路？我都用哪些机场？【硬核翻墙系列】 第十一期 - YouTube](https://www.youtube.com/watch?v=l98ZBGdu3X8)
  
@@ -181,16 +170,6 @@ DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 极简|[4](https://www.wiougong.space/auth/register?code=rmfL)|
 [禽兽云](https://1.qsyjc.live/)|一天体验时长，1G流量，签到给1G多，速度挺快。下午注册，体验时长内可以签两次到；注册只要个邮箱（限定那几种），不发验证码（是不是可以随便写一个邮箱？没试过），我用的临时谷歌邮箱
 
-
-
-- 一般在机场注册账号后，会赠送几个小时或几天，甚至几个月的体验时间。一般机场节点分为几个等级，体验身份一般是最低的那个节点等级。体验流量可能是1G、10G甚至更多。正常使用机场，既需要会员时长，也需要机场的流量，二者缺一不可。机场的套餐价格、体验套餐根据机场运行情况和社会环境不断变化。一般新机场的体验套餐量大，等着吸引到用户之后，套餐就改了，所以这种机场要快点注册，不然可能过了几分钟或一天，鸭子飞了。
-
-- 有的机场可以删除账号，可以借助这个途径不断注册，白嫖体验。也可以借助临时邮箱注册多个账号，不过，一般机场对于注册邮箱的域名都有限制，这就要看谁高一尺了。
-
-- 有专门分享免费节点的网站、YouTuber。
-
-[工具大师i - YouTube](https://www.youtube.com/channel/UCEBoI_hmSUNjRU4O86Y6TJg/featured)
-这个分享的节点质量还不错，每次能用半个月左右，速度也挺快（不过要先找到你用的时候快的那个）
 
 #### <h1 id="12">其他相关网站<h1>
 网站|备注|点击访问
@@ -227,7 +206,6 @@ Free-Proxy.com||[4](http://free-proxy.cz/zh/)
 
 
 ### <h1 id="14">自己搭建服务器<h1>
-> 这也是利用V2ray，因为需要动手的内容多一点，所以单拿出来说说
 
 在YouTube遇到的教程：  
 + ~~[2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)~~    
