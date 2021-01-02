@@ -187,7 +187,7 @@ Free-Proxy.com||[4](http://free-proxy.cz/zh/)
 + [（小白也能学会）❤群辉NAS安装软路由，软路由设置，无线AP设置，家庭网络设置，比较详细适合新手【#阿雷科技】 - YouTube](https://www.youtube.com/watch?v=qbWWGEHBowQ&ab)
 + [R2S软路由销量之王！R2S安装openwrt攻略 openwrt软路由设置 - YouTube](https://www.youtube.com/watch?v=ZCmbbnIBD78&ab)
 
-## <h1 id="15">其他翻墙方法总结<h1>
+## <h1 id="15">其他翻墙方法的总结<h1>
 网站|备注|点击访问
 --|:--:|:--:
 Share-SSR-V2ray||[2](https://github.com/selierlin/Share-SSR-V2ray)
@@ -214,35 +214,6 @@ VPNnice  |   |[11](https://www.vpnnice.com/)
 小明VPN   |   |[15](https://www.xiaomingvpn.com/)
 世界公民  |   |[16](https://www.49gm.org/)
  VPN PICKS| |[17](https://www.vpnpicks.com/)
-
-## 附注1
-在 GitHub / YouTube 搜索关键词，如翻墙、VPN、科学上网、SS/SSR/V2ray等
-
-[大象 - YouTube](https://www.youtube.com/channel/UCsmzWUksB4VpLb4ncUT9HVA)
-
-> 高产，免费机场和VPN，
-
-## 附注2
-免翻墙下谷歌商店软件
-
-网站|备注|点击访问
---| --- |:--:
-观道   |    |[1](http://www.guandao.cc/)
-Freeapk|    |[2](https://freeapk.mobi/)
-APKSSL |    |[3](https://apkssl.com/zh-cn/)
-APKTurbo|   |[4](https://www.apkturbo.com/)
-APPTOGAME|  |[5](https://apptogame.com/)
-
-
-## 附注3
-翻墙下谷歌商店软件
-
-网站|备注|点击访问
---| --- |:--:
-ApkPure||[1](https://www.apkpure.com/cn/)  
-APK Downloader||[2](https://apk-dl.com/zh)  
-AndroidApk||[3](https://androidappsapk.co/apkdownloader/)  
-APKMirror||[4](https://www.apkmirror.com/)
 
 
 ## 附注4
