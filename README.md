@@ -1,8 +1,62 @@
+### <h1 id="9">SS/SSR/V2ray/Clash/Clashr<h1>
+
+#### <h1 id="10">软件下载<h1>
+网站|备注|点击访问
+--|:--:|:--:
+v2rayNG（Android）下载||[1](https://github.com/2dust/v2rayNG)
+v2rayN（Windows）下载||[2](https://github.com/2dust/v2rayN)
+clash（Windows & Linux）||[3](https://github.com/Dreamacro/clash)
+ssr-download|SS/SSR/V2ray/Clash都有|[4](https://github.com/xcxnig/ssr-download)
+v2ray官网||[①](https://v2ray.com/) / [②](https://www.v2ray.com/)
+Qv2ray ||[6](https://qv2ray.net/)
+electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
+ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
+shadowsocksrr||[9](https://github.com/shadowsocksrr)
+winXray||[10](https://github.com/winXray/winXray)
+Trojan||[11](https://trojan-gfw.github.io/trojan/)
+
+
+#### <h1 id="11">免费节点分享<h1>
+网站      |ss                                        |ssr                                                  |v2ray|
+--|:--:|:--:|:--:
+lncn.org |                                   |[1](https://lncn.org/)
+放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                  | [1](https://www.youneed.win/free-v2ray)
+免费翻墙网|[2](https://freefq.com/free-ss/)    |[3](https://freefq.com/free-ssr/)                      |[2](https://freefq.com/v2ray/)
+翻墙党   |[3](https://fanqiangdang.com/forum-50-1.html)|[4](https://fanqiangdang.com/forum-2-1.html)  |[3](https://fanqiangdang.com/forum-36-1.html)
+免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
+ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
+free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
+[node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
+[ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
+
+
+#### <h1 id="17">机场导航网站<h1>
+网站|备注|点击访问
+---|:--:|:--:
+翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
+我爱白嫖||[2](https://52bp.org/index.html)
+灯油||[3](https://iyideng.cloud/)
+DuyaoSS||[4](https://www.duyaoss.com/page/1/)
+
+
+#### <h1 id="12">其他相关网站<h1>
+网站|备注|点击访问
+--|:--:|:--:
+月下博客||[1](https://ssrvps.org/)
+ssr节点||[2](http://ssssr.net/ssssr)
+免费SSR/SS||[3](https://m.ssrtool.us/free_ssr)
+SSR中文网||[4](https://ssr.tools/)
+奇少部落||[5](https://qsbl.cc/)
+V2RaySSR综合网||[6](https://www.v2rayssr.com/)  
+网络跳跃||[7](https://hijk.art/)  
+V2Ray中文网||[8](https://v2raycn.com/) 
+SSRSHARE||[9](https://www.ssrshare.com/)
+freegfw  ||[10](https://freegfw.cf/)
+我们所向往的||[11](https://gmail.gitbook.io/wmsxwd/)
+SSRSpeed||[12](https://github.com/NyanChanMeow/SSRSpeed)
+
 # 目录：
 
-## [世界网站导航](#2)
-## [科学上网](#3)
-### [概要](#4)
 ### [在线代理](#5)
 ### [proxy browser](#6)
 ### [VPN](#7)
@@ -12,7 +66,6 @@
 + #### [免费节点分享](#11)
 + #### [其他相关网站](#12)
 + #### [机场导航](#17)
-+ #### [机场推荐](#19)
 ### [在系统设置里设置VPN或代理](#13)
 ### [自己搭建服务器](#14)
 ### [搭建路由](#18)
@@ -21,25 +74,6 @@
 
 
 
-## <h1 id="2">世界网站导航</h1>
-
-网站|备注|点击访问
----|----|:---:
-世界各国网址大全||[1](http://www.world68.com/)  
-EGOUZ||[2](https://www.egouz.com/)  
-0430网站库||[3](http://www.0430.com/)  
-旅色网||[4](http://www.lvse.cn/)  
-看国外||[5](http://www.kguowai.com/)    
-去看看||[6](http://www.qkk999.com/)  
-
-> 更多的世界网站导航看这里： [导航的导航](https://xydh.fun/tiangongzi)，这是我在[炫猿](https://xydh.fun/)上做的一个小站。
-
-
-## <h1 id="3">科学上网<h1>
-### <h1 id="4">概要<h1>
-非重度科学上网玩家：  
-+ 利用软件科学上网，大致有如下几个方法：在线代理网站、proxy browser、VPN、browser extension、SS/SSR/V2ray/Clash/Clashr、在系统设置里设置VPN或代理、自己搭建服务器。  
-+ 利用硬件科学上网，好像有软路由和硬路由之分。我没用过，也不会，只放几个遇到的视频。  
 
 ### <h1 id="5">在线代理<h1>
 网站|备注|链接
@@ -117,75 +151,7 @@ extension    |备注  |安装
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
 
 
-### <h1 id="9">SS/SSR/V2ray/Clash/Clashr<h1>
 
-#### <h1 id="10">软件下载<h1>
-网站|备注|点击访问
---|:--:|:--:
-v2rayNG（Android）下载||[1](https://github.com/2dust/v2rayNG)
-v2rayN（Windows）下载||[2](https://github.com/2dust/v2rayN)
-clash（Windows & Linux）||[3](https://github.com/Dreamacro/clash)
-ssr-download|SS/SSR/V2ray/Clash都有|[4](https://github.com/xcxnig/ssr-download)
-v2ray官网||[①](https://v2ray.com/) / [②](https://www.v2ray.com/)
-Qv2ray ||[6](https://qv2ray.net/)
-electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
-ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
-shadowsocksrr||[9](https://github.com/shadowsocksrr)
-winXray||[10](https://github.com/winXray/winXray)
-Trojan||[11](https://trojan-gfw.github.io/trojan/)
-
-
-#### <h1 id="11">免费节点分享<h1>
-网站      |ss                                        |ssr                                                  |v2ray|
---|:--:|:--:|:--:
-lncn.org |                                   |[1](https://lncn.org/)
-放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                  | [1](https://www.youneed.win/free-v2ray)
-免费翻墙网|[2](https://freefq.com/free-ss/)    |[3](https://freefq.com/free-ssr/)                      |[2](https://freefq.com/v2ray/)
-翻墙党   |[3](https://fanqiangdang.com/forum-50-1.html)|[4](https://fanqiangdang.com/forum-2-1.html)  |[3](https://fanqiangdang.com/forum-36-1.html)
-免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
-ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
-free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
-[node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
-[ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
-
-
-#### <h1 id="17">机场导航网站<h1>
-网站|备注|点击访问
----|:--:|:--:
-翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
-我爱白嫖||[2](https://52bp.org/index.html)
-灯油||[3](https://iyideng.cloud/)
-DuyaoSS||[4](https://www.duyaoss.com/page/1/)
-
-#### <h1 id="19">机场推荐<h1>
- 
-> [机场为什么会跑路？我都用哪些机场？【硬核翻墙系列】 第十一期 - YouTube](https://www.youtube.com/watch?v=l98ZBGdu3X8)
- 
-网站|---
---|:--:|
-土狗云网络加速|[0](http://inv.tudog.vip/0Vpbdp)|
-~~XiXicats~~|~~[1](https://xixi.ph/auth/register?code=lL7M)~~|
-~~5DYUN~~|~~[2](https://5dyun.cf/)~~|
-跑路云|[3](https://paoluz.link/auth/register?code=SwLJ)|
-极简|[4](https://www.wiougong.space/auth/register?code=rmfL)|
-[禽兽云](https://1.qsyjc.live/)|一天体验时长，1G流量，签到给1G多，速度挺快。下午注册，体验时长内可以签两次到；注册只要个邮箱（限定那几种），不发验证码（是不是可以随便写一个邮箱？没试过），我用的临时谷歌邮箱
-
-
-#### <h1 id="12">其他相关网站<h1>
-网站|备注|点击访问
---|:--:|:--:
-月下博客||[1](https://ssrvps.org/)
-ssr节点||[2](http://ssssr.net/ssssr)
-免费SSR/SS||[3](https://m.ssrtool.us/free_ssr)
-SSR中文网||[4](https://ssr.tools/)
-奇少部落||[5](https://qsbl.cc/)
-V2RaySSR综合网||[6](https://www.v2rayssr.com/)  
-网络跳跃||[7](https://hijk.art/)  
-V2Ray中文网||[8](https://v2raycn.com/) 
-SSRSHARE||[9](https://www.ssrshare.com/)
-freegfw  ||[10](https://freegfw.cf/)
-我们所向往的||[11](https://gmail.gitbook.io/wmsxwd/)
-SSRSpeed||[12](https://github.com/NyanChanMeow/SSRSpeed)
  
 
 ### <h1 id="13">在系统设置里设置VPN或代理<h1>
