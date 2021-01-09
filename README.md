@@ -12,7 +12,7 @@ Qv2ray ||[6](https://qv2ray.net/)
 electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
 ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
 shadowsocksrr||[9](https://github.com/shadowsocksrr)
-winXray||[10](https://github.com/winXray/winXray)
+winXray||[10](https://github.com/TheMRLL/winxray)，[官网](https://winxray.com/)
 Trojan||[11](https://trojan-gfw.github.io/trojan/)
 
 
