@@ -29,6 +29,7 @@ free-v2ray|                                       |                             
 [node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
 [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
 [Free Proxies](https://proxypoolsstest.herokuapp.com/)|√|√|√
+[Free Proxies](https://proxy.moneyfly.club/)|√|√|√
 
 
 #### <h1 id="17">机场导航网站<h1>
