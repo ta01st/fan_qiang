@@ -101,7 +101,7 @@ Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](h
 
 VPN           |Android|IOS|Windows|Mac|Linux|Browser Entensions|Others|Note
 --------------|:-----:|:-:|:-----:|:-:|:---:|:----------------:|:----:|:--:
-老王VPN       |√      |√  |√      |√  |     |                  |      |[官网1](https://www.laowang.cn.com/), [官网2](https://zsxcool.com/)
+老王VPN       |√      |√  |√      |√  |     |                  |      |[官网1](https://www.laowang.cn.com/), [官网2]()
 VPN Gate      |√      |√  |√      |√  |     |                  |      |[官网](https://www.vpngate.net/cn/)
 蓝灯          |√      |√  |√      |√  |√    |                  |      |500M/月；[官网](https://getlantern.org/zh_CN/)；[中国官网](https://www.getlandeng129.org/)；[GitHub](https://github.com/getlantern/download)；安卓端可看看这个：[安卓端：多开分身与蓝灯](https://github.com/TiantianPython/fan_qiang/blob/master/%E5%AE%89%E5%8D%93%E7%AB%AF%EF%BC%9A%E5%A4%9A%E5%BC%80%E5%88%86%E8%BA%AB%E4%B8%8E%E8%93%9D%E7%81%AF.md)
 小明VPN       |√      |√  |       |   |     |                  |      |不稳定；[官网](https://gitithub.com/xm19/blob/master/)
