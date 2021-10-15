@@ -14,9 +14,9 @@ ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
 shadowsocksrr||[9](https://github.com/shadowsocksrr)
 winXray||[10](https://github.com/TheMRLL/winxray)，[官网](https://winxray.com/)
 Trojan||[11](https://trojan-gfw.github.io/trojan/)
- KingFu景福||[12](https://kf03.kingfu.cf/)
- Netch||[13](https://netch.org/#/)
-
+kingFu景福||[12](https://kf03.kingfu.cf/)
+Netch||[13](https://netch.org/#/)
+v2ray-core||[14](https://github.com/v2fly/v2ray-core)
 
 #### <h1 id="11">免费节点分享<h1>
 网站      |ss                                        |ssr                                                  |v2ray|
@@ -235,3 +235,10 @@ VyprVPN|3天||[4](https://0e591b83-f8a0-4a41-addb-3c0ef2141879.netrule.net/zh/)
 快连   |1天||[8](https://letsvpn.world/?hl=zh)
 ||||
 免费翻墙网总结|||[总结](https://freefq.com/vpn/)
+ 
+ 
+ ## 技术性研究
+ 
+ [proxypool](https://github.com/zu1k/proxypool)
+
+ [ProxySU](https://github.com/proxysu/ProxySU)
