@@ -30,8 +30,7 @@ ssrtool  |                                     |[6](https://ssrtool.us/tool/free
 free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
 [node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
 [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
-[Free Proxies](https://proxypoolsstest.herokuapp.com/)|√|√|√
-[Free Proxies](https://proxy.moneyfly.club/)|√|√|√
+[Free Proxies](https://hello.stgod.com/)|√|√|√
 
 
 #### <h1 id="17">机场导航网站<h1>
