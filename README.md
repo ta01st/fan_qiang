@@ -18,13 +18,13 @@
 [翻墙信息](#16)  
 
 
-### <h3 id="5">在线代理<h1>
+### <h1 id="5">在线代理<h1>
 网站|备注|链接
 :-:|:-:|:-:
 AlloX-Proxy ||[1](https://dy.qnid.cc/)
 [2020年现役 TOP5 谷歌浏览器VPN翻墙插件，免费稳定快速高效！速度50000kB，无广告，一键连接，备用必选！ - YouTube](https://www.youtube.com/watch?v=keQmJaFQxVc)
  
-### <h3 id="6">proxy browser<h1>
+### <h1 id="6">proxy browser<h1>
 
 Proxy Browser |Android|IOS|Windows|Mac|Linux|Note
 --------------|:-----:|:-:|:-----:|:-:|:---:|:--:
@@ -36,7 +36,7 @@ Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](h
 
 > 最近从一个公众号看到，UPX浏览器复活了。这是去年我刚接触科学上网时用的，当时一并接触到的还有Aloha Browser等三四个内置VPN的浏览器。
 
-### <h3 id="7">VPN<h1>  
+### <h1 id="7">VPN<h1>  
 
 **我用过，能用的**
 
@@ -88,15 +88,15 @@ TunSafe       |       |   |√      |   |     |                  |       |[官�
 the best VPN deals|  |[3](https://thebestvpndeals.com/)
 翻墙者             |  |[4](https://www.fanqiangzhe.com/)  
 
-### <h3 id="8">browser entension<h1>
+### <h1 id="8">browser entension<h1>
 extension    |备注  |安装
 ---|:---:|:----:
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
 
 
-### <h3 id="9">SS/SSR/V2ray/Clash/Clashr/winXray<h1>
+### <h1 id="9">SS/SSR/V2ray/Clash/Clashr/winXray<h1>
 
-#### <h5 id="10">软件下载<h1>
+#### <h2 id="10">软件下载<h1>
 网站|备注|点击访问
 --|:--:|:--:
 v2ray-core||https://github.com/v2fly/v2ray-core
@@ -121,7 +121,7 @@ Trojan||[11](https://trojan-gfw.github.io/trojan/)
  
  关于 V2Ray社区和V2Ray “进化” 成 V2Fly社区和Xray 的原因：[V2Ray - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/V2Ray)
 
-#### <h5 id="11">免费节点分享<h1>
+#### <h2 id="11">免费节点分享<h1>
 网站      |ss                                        |ssr                                                  |v2ray|
 --|:--:|:--:|:--:
 lncn.org |                                   |[1](https://lncn.org/)
@@ -142,7 +142,7 @@ free-v2ray|                                       |                             
  
 
 
-#### <h5 id="17">机场导航网站<h1>
+#### <h2 id="17">机场导航网站<h1>
 网站|备注|点击访问
 ---|:--:|:--:
 翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
@@ -151,7 +151,7 @@ free-v2ray|                                       |                             
 DuyaoSS||[4](https://www.duyaoss.com/page/1/)
 
 
-#### <h5 id="12">其他相关网站<h1>
+#### <h2 id="12">其他相关网站<h1>
 网站|备注|点击访问
 --|:--:|:--:
 月下博客||[1](https://ssrvps.org/)
@@ -170,7 +170,7 @@ ACL4SSR在线订阅转换||[13](https://acl4ssr-sub.github.io/)
 
  
 
-### <h3 id="13">在系统设置里设置VPN或代理<h1>
+### <h1 id="13">在系统设置里设置VPN或代理<h1>
 这种方法不需要下载任何软件就可以实现科学上网。
 平台|方法
 :-----:|:-----:|
@@ -187,7 +187,7 @@ Free-Proxy.com||[4](http://free-proxy.cz/zh/)
 
 
 
-### <h3 id="14">搭建服务器<h1>
+### <h1 id="14">搭建服务器<h1>
 
 在YouTube遇到的教程：  
 + ~~[2020年永久免费云服务器VPS（IBM Clould）申请，搭建永久免费VPN！无需信用卡，只需一个邮箱，永久免费部署V2ray科学上网！](https://m.youtube.com/watch?v=aML8c6sqIzI)~~    
@@ -198,19 +198,19 @@ Free-Proxy.com||[4](http://free-proxy.cz/zh/)
 
 
 
-### <h3 id="18">搭建路由<h1>
+### <h1 id="18">搭建路由<h1>
 + [软路由安装教程，闲置笔记本设置旁路由，双臂路由！科学上网更快更稳定！2020 | 零度解说 - YouTube](https://www.youtube.com/watch?v=nEU4hbZYj6c&ab)
 + [（小白也能学会）❤群辉NAS安装软路由，软路由设置，无线AP设置，家庭网络设置，比较详细适合新手【#阿雷科技】 - YouTube](https://www.youtube.com/watch?v=qbWWGEHBowQ&ab)
 + [R2S软路由销量之王！R2S安装openwrt攻略 openwrt软路由设置 - YouTube](https://www.youtube.com/watch?v=ZCmbbnIBD78&ab)
 
-## <h3 id="15">其他<h1>
+## <h1 id="15">其他<h1>
 网站|备注|点击访问
 --|:--:|:--:
 Share-SSR-V2ray||[2](https://github.com/selierlin/Share-SSR-V2ray)
 new-pac||[3](https://github.com/Alvin9999/new-pac/wiki )
 w3-goto-world||[4](w3-goto-world)
 
-## <h3 id="16">翻墙信息<h1>
+## <h1 id="16">翻墙信息<h1>
 网站|备注|点击访问
 --|--|:--:
 墙外看    |  |[1](https://qiangwaikan.com/)
