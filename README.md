@@ -97,8 +97,9 @@ Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail
 ### <h1 id="9">SS/SSR/V2ray/Clash/Clashr/winXray<h1>
 
 #### <h2 id="10">软件下载<h1>
+ 
 网站|网址1|网址2|备注
---|:--:|:--:
+--|:--:|:--:|
 v2ray-core|https://github.com/v2fly/v2ray-core||支持Windows、Linux、MacOS、Android
 v2rayNG|https://github.com/2dust/v2rayNG||仅Android
 v2rayN|https://github.com/2dust/v2rayN||仅Windows
