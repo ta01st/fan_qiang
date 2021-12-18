@@ -133,7 +133,7 @@ ssrtool  |                                     |[6](https://ssrtool.us/tool/free
 free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
 [node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
 [ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
-[Free Proxies](https://hello.stgod.com/)|√|√|√
+[Free Proxies](https://smart.zxcyec.top/)|√|√|√
  
  碧海免费节点池：https://proxies.bihai.cf/
  
