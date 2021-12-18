@@ -1,67 +1,4 @@
-### <h1 id="9">SS/SSR/V2ray/Clash/Clashr<h1>
 
-#### <h1 id="10">软件下载<h1>
-网站|备注|点击访问
---|:--:|:--:
-v2rayNG（Android）下载||[1](https://github.com/2dust/v2rayNG)
-v2rayN（Windows）下载||[2](https://github.com/2dust/v2rayN)
-clash（Windows & Linux）||[3](https://github.com/Dreamacro/clash)
-ssr-download|SS/SSR/V2ray/Clash都有|[4](https://github.com/xcxnig/ssr-download)
-v2ray官网||[①](https://v2ray.com/) / [②](https://www.v2ray.com/)
-Qv2ray ||[6](https://qv2ray.net/)
-electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
-ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
-shadowsocksrr||[9](https://github.com/shadowsocksrr)
-winXray||[10](https://github.com/TheMRLL/winxray)，[官网](https://winxray.com/)
-Trojan||[11](https://trojan-gfw.github.io/trojan/)
-kingFu景福||[12](https://kf03.kingfu.cf/)
-Netch||[13](https://netch.org/#/)
-v2ray-core||[14](https://github.com/v2fly/v2ray-core)
-
-#### <h1 id="11">免费节点分享<h1>
-网站      |ss                                        |ssr                                                  |v2ray|
---|:--:|:--:|:--:
-lncn.org |                                   |[1](https://lncn.org/)
-放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                  | [1](https://www.youneed.win/free-v2ray)
-免费翻墙网|[2](https://freefq.com/free-ss/)    |[3](https://freefq.com/free-ssr/)                      |[2](https://freefq.com/v2ray/)
-翻墙党   |[3](https://fanqiangdang.com/forum-50-1.html)|[4](https://fanqiangdang.com/forum-2-1.html)  |[3](https://fanqiangdang.com/forum-36-1.html)
-免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
-ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
-free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
-[node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
-[ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
-[Free Proxies](https://hello.stgod.com/)|√|√|√
- 
- 碧海免费节点池：https://proxies.bihai.cf/
- 
- 
-
-
-#### <h1 id="17">机场导航网站<h1>
-网站|备注|点击访问
----|:--:|:--:
-翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
-我爱白嫖||[2](https://52bp.org/index.html)
-灯油||[3](https://iyideng.cloud/)
-DuyaoSS||[4](https://www.duyaoss.com/page/1/)
-
-
-#### <h1 id="12">其他相关网站<h1>
-网站|备注|点击访问
---|:--:|:--:
-月下博客||[1](https://ssrvps.org/)
-ssr节点||[2](http://ssssr.net/ssssr)
-免费SSR/SS||[3](https://m.ssrtool.us/free_ssr)
-SSR中文网||[4](https://ssr.tools/)
-奇少部落||[5](https://qsbl.cc/)
-V2RaySSR综合网||[6](https://www.v2rayssr.com/)  
-网络跳跃||[7](https://hijk.art/)  
-V2Ray中文网||[8](https://v2raycn.com/) 
-SSRSHARE||[9](https://www.ssrshare.com/)
-freegfw  ||[10](https://freegfw.cf/)
-我们所向往的||[11](https://gmail.gitbook.io/wmsxwd/)
-SSRSpeed||[12](https://github.com/NyanChanMeow/SSRSpeed)
-ACL4SSR在线订阅转换||[13](https://acl4ssr-sub.github.io/)
 # 目录：
 
 ### [在线代理](#5)
@@ -158,6 +95,79 @@ extension    |备注  |安装
 Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?utm_source=chrome-ntp-icon) 
 
 
+### <h1 id="9">SS/SSR/V2ray/Clash/Clashr/winXray<h1>
+
+#### <h2 id="10">软件下载<h1>
+网站|备注|点击访问
+--|:--:|:--:
+v2ray-core||https://github.com/v2fly/v2ray-core
+v2rayNG（Android）下载||[1](https://github.com/2dust/v2rayNG)
+v2rayN（Windows）下载||[2](https://github.com/2dust/v2rayN)
+clash（Windows & Linux）||[3](https://github.com/Dreamacro/clash)
+winXray||https://github.com/TheMRLL/winxray，https://winxray.com/
+ssr-download|SS/SSR/V2ray/Clash都有|[4](https://github.com/xcxnig/ssr-download)
+Qv2ray ||[6](https://qv2ray.net/)
+electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
+ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
+shadowsocksrr||[9](https://github.com/shadowsocksrr)
+Trojan||[11](https://trojan-gfw.github.io/trojan/)
+
+ 
+ 以前的v2ray：
+ 
+ 网站|网址
+ ---|---
+ v2ray官网|[①](https://v2ray.com/) / [②](https://www.v2ray.com/)
+ GitHub分流地址|https://github.com/v2ray/v2ray-core
+ 
+ 关于 V2Ray社区和V2Ray “进化” 成 V2Fly社区和Xray 的原因：[V2Ray - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/V2Ray)
+
+#### <h2 id="11">免费节点分享<h1>
+网站      |ss                                        |ssr                                                  |v2ray|
+--|:--:|:--:|:--:
+lncn.org |                                   |[1](https://lncn.org/)
+放牧的风|[1](https://www.youneed.win/free-ss)| [2](https://www.youneed.win/free-ssr)                  | [1](https://www.youneed.win/free-v2ray)
+免费翻墙网|[2](https://freefq.com/free-ss/)    |[3](https://freefq.com/free-ssr/)                      |[2](https://freefq.com/v2ray/)
+翻墙党   |[3](https://fanqiangdang.com/forum-50-1.html)|[4](https://fanqiangdang.com/forum-2-1.html)  |[3](https://fanqiangdang.com/forum-36-1.html)
+免费上网账号|                                   |[5](https://free-ss.site/)                            |[4](https://free-ss.site/)
+ssrtool  |                                     |[6](https://ssrtool.us/tool/free_ssr)                 |[5](https://ssrtool.us/tool/share_v2ray)
+free-v2ray|                                       |                                                    |[6](https://github.com/iwxf/free-v2ray)
+[node.umelabs.dev](https://github.com/umelabs/node.umelabs.dev)|√|√|√
+[ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare)|√|√|×
+[Free Proxies](https://hello.stgod.com/)|√|√|√
+ 
+ 碧海免费节点池：https://proxies.bihai.cf/
+ 
+ kingFu景福：https://kf03.kingfu.cf/
+ 
+ 
+
+
+#### <h2 id="17">机场导航网站<h1>
+网站|备注|点击访问
+---|:--:|:--:
+翻墙党公益||[1](https://jichang.fanqiangdang.com/)  
+我爱白嫖||[2](https://52bp.org/index.html)
+灯油||[3](https://iyideng.cloud/)
+DuyaoSS||[4](https://www.duyaoss.com/page/1/)
+
+
+#### <h2 id="12">其他相关网站<h1>
+网站|备注|点击访问
+--|:--:|:--:
+月下博客||[1](https://ssrvps.org/)
+ssr节点||[2](http://ssssr.net/ssssr)
+免费SSR/SS||[3](https://m.ssrtool.us/free_ssr)
+SSR中文网||[4](https://ssr.tools/)
+奇少部落||[5](https://qsbl.cc/)
+V2RaySSR综合网||[6](https://www.v2rayssr.com/)  
+网络跳跃||[7](https://hijk.art/)  
+V2Ray中文网||[8](https://v2raycn.com/) 
+SSRSHARE||[9](https://www.ssrshare.com/)
+freegfw  ||[10](https://freegfw.cf/)
+我们所向往的||[11](https://gmail.gitbook.io/wmsxwd/)
+SSRSpeed||[12](https://github.com/NyanChanMeow/SSRSpeed)
+ACL4SSR在线订阅转换||[13](https://acl4ssr-sub.github.io/)
 
  
 
