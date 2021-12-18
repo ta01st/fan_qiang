@@ -5,7 +5,7 @@
 [proxy browser](#6)  
 [VPN](#7)  
 [browser extension](#8)  
-[SS/SSR/V2ray/Clash/Clashr](#9)
+[SS/SSR/V2ray/Clash/Clashr/winXray](#9)
 + [软件下载](#10)
 + [免费节点分享](#11)
 + [其他相关网站](#12)
