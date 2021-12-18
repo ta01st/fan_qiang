@@ -97,22 +97,20 @@ Astar VPN     |chrome extesion    |[1](https://chrome.google.com/webstore/detail
 ### <h1 id="9">SS/SSR/V2ray/Clash/Clashr/winXray<h1>
 
 #### <h2 id="10">软件下载<h1>
-网站|备注|点击访问
+网站|网址1|网址2|备注
 --|:--:|:--:
-v2ray-core||https://github.com/v2fly/v2ray-core
-v2rayNG（Android）下载||[1](https://github.com/2dust/v2rayNG)
-v2rayN（Windows）下载||[2](https://github.com/2dust/v2rayN)
-clash（Windows & Linux）||[3](https://github.com/Dreamacro/clash)
-winXray||https://github.com/TheMRLL/winxray，https://winxray.com/
-ssr-download|SS/SSR/V2ray/Clash都有|[4](https://github.com/xcxnig/ssr-download)
-Qv2ray ||[6](https://qv2ray.net/)
-electron-ssr-backup||[7](https://github.com/qingshuisiyuan/electron-ssr-backup)
-ClashForAndroid||[8](https://github.com/Kr328/ClashForAndroid)
-shadowsocksrr||[9](https://github.com/shadowsocksrr)
-Trojan||[11](https://trojan-gfw.github.io/trojan/)
+v2ray-core|https://github.com/v2fly/v2ray-core||支持Windows、Linux、MacOS、Android
+v2rayNG|https://github.com/2dust/v2rayNG||仅Android
+v2rayN|https://github.com/2dust/v2rayN||仅Windows
+clash|https://github.com/Dreamacro/clash||支持Windows、Linux
+ClashForAndroid|https://github.com/Kr328/ClashForAndroid||仅Android
+winXray|https://github.com/TheMRLL/winxray|https://winxray.com/|仅Windows
+Trojan|https://trojan-gfw.github.io/trojan/||支持Windows、Linux、MacOS
 
+
+ 停止的项目：
  
- 以前的v2ray：
+- v2ray：
  
  网站|网址
  ---|---
@@ -120,6 +118,16 @@ Trojan||[11](https://trojan-gfw.github.io/trojan/)
  GitHub分流地址|https://github.com/v2ray/v2ray-core
  
  关于 V2Ray社区和V2Ray “进化” 成 V2Fly社区和Xray 的原因：[V2Ray - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/V2Ray)
+ 
+ - ssr：
+ 
+  网站|网址
+ ---|---
+ electron-ssr-backup|https://github.com/qingshuisiyuan/electron-ssr-backup|
+ shadowsocksrr|https://github.com/shadowsocksrr
+ 
+ - Qv2ray: https://qv2ray.net/
+
 
 #### <h2 id="11">免费节点分享<h1>
 网站      |ss                                        |ssr                                                  |v2ray|
