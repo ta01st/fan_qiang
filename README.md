@@ -21,7 +21,6 @@
 ### <h1 id="5">在线代理<h1>
 网站|备注|链接
 :-:|:-:|:-:
-AlloX-Proxy ||[1](https://dy.qnid.cc/)
 [2020年现役 TOP5 谷歌浏览器VPN翻墙插件，免费稳定快速高效！速度50000kB，无广告，一键连接，备用必选！ - YouTube](https://www.youtube.com/watch?v=keQmJaFQxVc)
  
 ### <h1 id="6">proxy browser<h1>
@@ -34,7 +33,6 @@ Tuber浏览器   |√      |敬请期待|   |   |    |[官网](http://pc.txappne
 绿光浏览器    |√      |√  |√      |√  |     |需手机号登录；[官网](https://www.sgreennet.com/)  
 Opera         |√      |   |√      |√  |√    |Opera 40以上；[官网](https://www.opera.com/zh-tw)    
 
-> 最近从一个公众号看到，UPX浏览器复活了。这是去年我刚接触科学上网时用的，当时一并接触到的还有Aloha Browser等三四个内置VPN的浏览器。
 
 ### <h1 id="7">VPN<h1>  
 
@@ -79,6 +77,8 @@ TunSafe       |       |   |√      |   |     |                  |       |[官�
 蜜蜂加速器    |√      |√  |       |   |     |                  |       |[官网](http://www.mifengf.com/)
 佛跳墙加速器  |√      |√  |√      |√  |     |                  |       |[官网](https://fotiaoqiang.io/)
 蚂蚁加速器    |√      |√  |√      |   |     |                  |       |[官网](https://b.antss.me/)
+ 
+[如何在 Windows 上安装 设置 OpenVPN，附免费VPN节点和使用教程 | 零度解说](https://www.youtube.com/watch?v=rwi0tPd-owU)
 
 **VPN导航网站**
 网站               |备注             |点击访问
