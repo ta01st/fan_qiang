@@ -148,6 +148,8 @@ free-v2ray|                                       |                             
  
  kingFu景福：https://kf03.kingfu.cf/
  
+ Free Proxies：https://fq.lonxin.net/
+ 
  
 
 
